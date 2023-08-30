@@ -5,7 +5,6 @@
   <project name=".github.git" path="github" />
   <project name="gui.git" path="gui" />
   <project name="ide.git" path="ide" />
-  <project name="model.git" path="model" />
   <project name="proxy.git" path="proxy" />
   <project name="server.git" path="server" />
 </manifest>
